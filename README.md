@@ -1,2 +1,2 @@
 # EzeMemoryGame
-Card game to test memory built using react-native javascript
+Card game to test your memory built using react-native javascript
