@@ -1,6 +1,6 @@
-![Alt text](Webp.net-resizeimage (5).jpg)
+![Alt text](image2.jpg)
 
-![](Webp.net-resizeimage (4).jpg)
+![](image1.jpg)
 
 # EzeMemoryGame
 Card game to test your memory built using react-native javascript
