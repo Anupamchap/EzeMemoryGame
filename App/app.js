@@ -82,6 +82,7 @@ function shuffle(array) {
   return array;
 }
 
+
 class Card extends React.Component {
   render() {
     const onPress = this.props.onPress;
