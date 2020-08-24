@@ -13,6 +13,7 @@ import {
 } from 'react-native';
 
 
+
 import {AVAILABLE_CARDS} from './data/availableCards';
 
 const screen = Dimensions.get('window');
