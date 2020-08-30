@@ -14,6 +14,7 @@ import {
 
 
 
+
 import {AVAILABLE_CARDS} from './data/availableCards';
 
 const screen = Dimensions.get('window');
